@@ -6,14 +6,14 @@
 
 1. Print out however many digits you want to get initially. Let's do five.
 
-```
-$ node fuzzle.js 5
-```
+    ```
+    $ node fuzzle.js 5
+    ```
 
 1. Try to figure out what the pattern is, compute the next value, and then check yourself.
 
-```
-$ node fuzzle.js 6
-```
+    ```
+    $ node fuzzle.js 6
+    ```
 
 1. Eventually give up and look at the sourcecode.
